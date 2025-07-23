@@ -63,10 +63,10 @@ Este repositorio forma parte de mi portafolio como Analista de Datos. Incluye tr
 ---
 
 ## 🖼️ Capturas de Pantalla 
-/img/panel_control.png
-/img/informe_online_1.png
-/img/informe_online_2.png  
-/img/informe_tienda_1.png  
-/img/informe_tienda_2.png
-/img/vendedores_1.png
-/img/vendedores_2.png
+![Screenshot del panel de control](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/panel_control.png)
+![Screenshot del informe de ventas online](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/informe_online_1.png)
+![Screenshot del informe de ventas online](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/informe_online_2.png)
+![Screenshot del informe de ventas en tienda física](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/informe_tienda_1.png)
+![Screenshot del informe de ventas en tienda física](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/informe_tienda_2.png)
+![Screenshot del informe de ventas comisiones vendedores](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/vendedores_1.png)
+![Screenshot del informe de ventas comisiones vendedores](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/vendedores_2.png)
