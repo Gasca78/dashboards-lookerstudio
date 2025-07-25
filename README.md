@@ -70,4 +70,3 @@ Este repositorio forma parte de mi portafolio como Analista de Datos. Incluye tr
 ![Screenshot del informe de ventas en tienda física](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/informe_tienda_2.png)
 ![Screenshot del informe de ventas comisiones vendedores](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/vendedores_1.png)
 ![Screenshot del informe de ventas comisiones vendedores](https://github.com/Gasca78/dashboards-lookerstudio/blob/main/vendedores_2.png)
-<iframe width="600" height="693" src="https://lookerstudio.google.com/embed/reporting/086963e9-eaf2-44a8-9b13-6363a417c416/page/p_5sjdje7dud" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
